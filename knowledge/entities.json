@@ -1,0 +1,66 @@
+{
+  "teams": [
+    {"english": "Atlanta Hawks", "chinese": "亚特兰大老鹰队", "short": "老鹰", "abbreviation": "ATL", "aliases": ["Hawks", "亚特兰大"]},
+    {"english": "Boston Celtics", "chinese": "波士顿凯尔特人队", "short": "凯尔特人", "abbreviation": "BOS", "aliases": ["Celtics", "绿军"]},
+    {"english": "Brooklyn Nets", "chinese": "布鲁克林篮网队", "short": "篮网", "abbreviation": "BKN", "aliases": ["Nets", "布鲁克林"]},
+    {"english": "Charlotte Hornets", "chinese": "夏洛特黄蜂队", "short": "黄蜂", "abbreviation": "CHA", "aliases": ["Hornets", "夏洛特"]},
+    {"english": "Chicago Bulls", "chinese": "芝加哥公牛队", "short": "公牛", "abbreviation": "CHI", "aliases": ["Bulls", "芝加哥"]},
+    {"english": "Cleveland Cavaliers", "chinese": "克利夫兰骑士队", "short": "骑士", "abbreviation": "CLE", "aliases": ["Cavaliers", "Cavs", "克利夫兰"]},
+    {"english": "Dallas Mavericks", "chinese": "达拉斯独行侠队", "short": "独行侠", "abbreviation": "DAL", "aliases": ["Mavericks", "Mavs", "达拉斯"]},
+    {"english": "Denver Nuggets", "chinese": "丹佛掘金队", "short": "掘金", "abbreviation": "DEN", "aliases": ["Nuggets", "丹佛"]},
+    {"english": "Detroit Pistons", "chinese": "底特律活塞队", "short": "活塞", "abbreviation": "DET", "aliases": ["Pistons", "底特律"]},
+    {"english": "Golden State Warriors", "chinese": "金州勇士队", "short": "勇士", "abbreviation": "GSW", "aliases": ["Warriors", "金州"]},
+    {"english": "Houston Rockets", "chinese": "休斯顿火箭队", "short": "火箭", "abbreviation": "HOU", "aliases": ["Rockets", "休斯顿"]},
+    {"english": "Indiana Pacers", "chinese": "印第安纳步行者队", "short": "步行者", "abbreviation": "IND", "aliases": ["Pacers", "印第安纳"]},
+    {"english": "LA Clippers", "chinese": "洛杉矶快船队", "short": "快船", "abbreviation": "LAC", "aliases": ["Los Angeles Clippers", "Clippers"]},
+    {"english": "Los Angeles Lakers", "chinese": "洛杉矶湖人队", "short": "湖人", "abbreviation": "LAL", "aliases": ["Lakers", "洛杉矶湖人"]},
+    {"english": "Memphis Grizzlies", "chinese": "孟菲斯灰熊队", "short": "灰熊", "abbreviation": "MEM", "aliases": ["Grizzlies", "孟菲斯"]},
+    {"english": "Miami Heat", "chinese": "迈阿密热火队", "short": "热火", "abbreviation": "MIA", "aliases": ["Heat", "迈阿密"]},
+    {"english": "Milwaukee Bucks", "chinese": "密尔沃基雄鹿队", "short": "雄鹿", "abbreviation": "MIL", "aliases": ["Bucks", "密尔沃基"]},
+    {"english": "Minnesota Timberwolves", "chinese": "明尼苏达森林狼队", "short": "森林狼", "abbreviation": "MIN", "aliases": ["Timberwolves", "Wolves", "明尼苏达"]},
+    {"english": "New Orleans Pelicans", "chinese": "新奥尔良鹈鹕队", "short": "鹈鹕", "abbreviation": "NOP", "aliases": ["Pelicans", "新奥尔良"]},
+    {"english": "New York Knicks", "chinese": "纽约尼克斯队", "short": "尼克斯", "abbreviation": "NYK", "aliases": ["Knicks", "纽约"]},
+    {"english": "Oklahoma City Thunder", "chinese": "俄克拉荷马城雷霆队", "short": "雷霆", "abbreviation": "OKC", "aliases": ["Thunder", "Oklahoma City", "俄城"]},
+    {"english": "Orlando Magic", "chinese": "奥兰多魔术队", "short": "魔术", "abbreviation": "ORL", "aliases": ["Magic", "奥兰多"]},
+    {"english": "Philadelphia 76ers", "chinese": "费城76人队", "short": "76人", "abbreviation": "PHI", "aliases": ["Sixers", "Philadelphia 76ers", "费城"]},
+    {"english": "Phoenix Suns", "chinese": "菲尼克斯太阳队", "short": "太阳", "abbreviation": "PHX", "aliases": ["Suns", "菲尼克斯"]},
+    {"english": "Portland Trail Blazers", "chinese": "波特兰开拓者队", "short": "开拓者", "abbreviation": "POR", "aliases": ["Trail Blazers", "Blazers", "波特兰"]},
+    {"english": "Sacramento Kings", "chinese": "萨克拉门托国王队", "short": "国王", "abbreviation": "SAC", "aliases": ["Kings", "萨克拉门托"]},
+    {"english": "San Antonio Spurs", "chinese": "圣安东尼奥马刺队", "short": "马刺", "abbreviation": "SAS", "aliases": ["Spurs", "圣安东尼奥"]},
+    {"english": "Toronto Raptors", "chinese": "多伦多猛龙队", "short": "猛龙", "abbreviation": "TOR", "aliases": ["Raptors", "多伦多"]},
+    {"english": "Utah Jazz", "chinese": "犹他爵士队", "short": "爵士", "abbreviation": "UTA", "aliases": ["Jazz", "犹他"]},
+    {"english": "Washington Wizards", "chinese": "华盛顿奇才队", "short": "奇才", "abbreviation": "WAS", "aliases": ["Wizards", "华盛顿"]}
+  ],
+  "players": [
+    {"english": "LeBron James", "chinese": "勒布朗-詹姆斯", "aliases": ["James", "詹姆斯"]},
+    {"english": "Stephen Curry", "chinese": "斯蒂芬-库里", "aliases": ["Steph Curry", "Curry", "库里"]},
+    {"english": "Kevin Durant", "chinese": "凯文-杜兰特", "aliases": ["Durant", "杜兰特"]},
+    {"english": "Nikola Jokic", "chinese": "尼古拉-约基奇", "aliases": ["Jokic", "约基奇"]},
+    {"english": "Giannis Antetokounmpo", "chinese": "扬尼斯-阿德托昆博", "aliases": ["Giannis", "Antetokounmpo", "字母哥"]},
+    {"english": "Luka Doncic", "chinese": "卢卡-东契奇", "aliases": ["Doncic", "东契奇"]},
+    {"english": "Jayson Tatum", "chinese": "杰森-塔特姆", "aliases": ["Tatum", "塔特姆"]},
+    {"english": "Shai Gilgeous-Alexander", "chinese": "谢伊-吉尔杰斯-亚历山大", "aliases": ["SGA", "Gilgeous-Alexander", "亚历山大"]},
+    {"english": "Anthony Edwards", "chinese": "安东尼-爱德华兹", "aliases": ["Edwards", "爱德华兹"]},
+    {"english": "Victor Wembanyama", "chinese": "维克托-文班亚马", "aliases": ["Wembanyama", "文班亚马"]}
+  ],
+  "reporters": [
+    {"name": "Shams Charania", "chinese": "沙姆斯-查拉尼亚", "organization": "ESPN", "aliases": ["Shams"]},
+    {"name": "Marc Stein", "chinese": "马克-斯坦", "organization": "The Stein Line", "aliases": ["Stein"]},
+    {"name": "Chris Haynes", "chinese": "克里斯-海恩斯", "organization": "NBA insider", "aliases": ["Haynes"]},
+    {"name": "Brian Windhorst", "chinese": "布莱恩-文霍斯特", "organization": "ESPN", "aliases": ["Windhorst"]},
+    {"name": "Adrian Wojnarowski", "chinese": "阿德里安-沃纳罗斯基", "organization": "Former ESPN reporter", "aliases": ["Woj", "Wojnarowski"]}
+  ],
+  "terms": [
+    {"english": "pick-and-roll", "chinese": "挡拆", "aliases": ["pick and roll", "PnR"]},
+    {"english": "transition offense", "chinese": "转换进攻", "aliases": ["fast break"]},
+    {"english": "zone defense", "chinese": "区域联防", "aliases": ["zone"]},
+    {"english": "double-double", "chinese": "两双", "aliases": ["double double"]},
+    {"english": "triple-double", "chinese": "三双", "aliases": ["triple double"]},
+    {"english": "two-way contract", "chinese": "双向合同", "aliases": ["two way deal"]},
+    {"english": "player option", "chinese": "球员选项", "aliases": []},
+    {"english": "team option", "chinese": "球队选项", "aliases": []},
+    {"english": "restricted free agent", "chinese": "受限制自由球员", "aliases": ["RFA"]},
+    {"english": "unrestricted free agent", "chinese": "完全自由球员", "aliases": ["UFA"]}
+  ]
+}
+
