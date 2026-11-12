@@ -1,0 +1,14 @@
+{
+  "draft": {
+    "title": "官方：测试球员将于明日接受伤势复查",
+    "lead": "北京时间今日，测试球队官方公布了测试球员的伤病情况。",
+    "body_paragraphs": ["球队表示，测试球员将于明日接受进一步复查，当前没有公布明确的复出时间。"],
+    "background_paragraphs": ["球队将在复查完成后更新其后续状态。"],
+    "source_name": "球队官方",
+    "source_url": "https://example.com/source",
+    "tags": ["测试球队", "伤病"],
+    "image_keywords": ["player injury update"],
+    "alternate_titles": []
+  },
+  "evidence": [{"claim": "复查时间", "value": "明日", "as_of": "2026-07-23", "source_name": "球队官方", "source_url": "https://example.com/source"}]
+}
